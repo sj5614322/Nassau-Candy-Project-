@@ -85,7 +85,7 @@ html, body, [class*="css"] {{ font-family: 'Inter', sans-serif; }}
 .kpi-label {{ font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: {INK_SOFT}; font-weight: 600; margin-bottom: 3px; }}
 .kpi-value {{ font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; color: {INK}; }}
 
-.insight-row {{ display: flex; align-items: flex-start; gap: 12px; padding: 10px 2px; font-size: 14.5px; line-height: 1.5; color: {INK}; }}
+.insight-row {{ display: flex; align-items: flex-start; gap: 12px; padding: 10px 2px; font-size: 14.5px; line-height: 1.5; color: white; }}
 .insight-icon {{ font-size: 16px; flex-shrink: 0; margin-top: 1px; }}
 
 .step-num {{ display:inline-flex; align-items:center; justify-content:center; width:28px; height:28px; border-radius:50%; background:{INK}; color:white; font-weight:700; font-size:13px; font-family:'JetBrains Mono',monospace; flex-shrink:0; }}
