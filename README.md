@@ -2,7 +2,7 @@
 
 An interactive Streamlit analytics dashboard that analyzes shipping route efficiency for **Nassau Candy Distributor**, identifying bottlenecks, comparing factory-to-state routes, and benchmarking ship-mode performance — with a one-click exportable Word report.
 
-**🔗 Live App:** [Add your Streamlit Cloud URL here]
+**🔗 Live App:** https://candy-logistics-dashboard.streamlit.app/
 **📄 Research Paper:** [Add your paper link here]
 **🎥 Demo Video:** [Add your feedback/demo video link here]
 
