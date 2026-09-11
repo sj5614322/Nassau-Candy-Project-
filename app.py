@@ -5,7 +5,7 @@ Streamlit dashboard: Factory-to-Customer Shipping Route Efficiency Analysis
 for Nassau Candy Distributor.
 """
 
-streaimport streamlit as st
+import streamlit as st
 import pandas as pd
 import plotly.express as px
 
